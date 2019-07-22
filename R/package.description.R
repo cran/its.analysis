@@ -4,7 +4,7 @@
 #'
 #' @details Interrupted Time Series Analysis (ITSA) serves as a replacement for traditional time series modelling techniques when sample sizes are too small for such approaches (including ARIMA and OLS methods).
 #'
-#' The ITSA model offered in this package is a Type-II sum-squares ANCOVA Lagged Dependent Variable model. Function produces a range of additional bolt-ons which provide further detailed information and test assumptions relative to both ANOVA and time series analysis.
+#' The ITSA model offered in this package is a Type-II sum-squares ANCOVA Lagged Dependent Variable model. The main function produces a range of additional bolt-ons which provide further detailed information and test assumptions relative to both ANOVA and time series analysis.
 #'
 #' The key independent variable must, if it is not already, be converted into a factor whereby periods of significant change in the behaviour or direction of the variable are identified and coded as seperate factoral periods (with one numeric identifier for their entire length). This creates the 'interruption framework'.
 #'
