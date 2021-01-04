@@ -1,9 +1,9 @@
-1116e763e7e82e6d8bebc26d918f0981 *DESCRIPTION
+afdb9724a08879f45d7efe59383961a0 *DESCRIPTION
 abcb63059b23be921b1392a949cee2ff *LICENCE
 7fb24f63561f58bf0aa27c0f021b1e71 *NAMESPACE
-72349b2d438fcde0da9b079b58988692 *R/itsa.model.R
-8c6548e9885eb91225ca4b0b6913bfd1 *R/itsa.postest.R
-0d5470657eee0ef50185572e5e74aca8 *R/package.description.R
-7cbbef80b7e0864b9f6da0e2953b37fa *man/its.analysis-package.Rd
-86dc0466863c23000148cd2c544a5e37 *man/itsa.model.Rd
-e70bc2fab5e60042f989601514becc5e *man/itsa.postest.Rd
+2664ef1dba459f6bb1e55c2e927badb9 *R/itsa.model.R
+abb23b065105cac5ba8c4d83ecc8731c *R/itsa.postest.R
+dca35508f6ca4fa9e6ee42c1afd85e6b *R/package.description.R
+627a96dfab51a8208d65cce0d85e2416 *man/its.analysis-package.Rd
+9e425d35f2ed7598ce4bbaa43727f142 *man/itsa.model.Rd
+59913c195ea9a6e34fe85cb3026787f4 *man/itsa.postest.Rd
